@@ -1,0 +1,6 @@
+@RedisApplication_HostAddress = http://localhost:5167
+
+GET {{RedisApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
